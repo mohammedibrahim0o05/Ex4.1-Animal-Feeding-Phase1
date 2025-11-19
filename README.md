@@ -110,7 +110,7 @@ Edit their speed values and test to see how it looks. Drag all three animals int
     }
 }
 
-```
+
 
 ## MOVING FORWARD:
 ```
@@ -136,6 +136,8 @@ public class MoveForward : MonoBehaviour
 
 
 ```
+
+
 
 ## Output:
 
